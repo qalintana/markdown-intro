@@ -49,4 +49,4 @@ def soma(a, b):
 
 ![Um tênis muito bonito 😂😂](tenis.png 'Tenis azul') 😂😂😂😂
 
- [x] Tarefa 1
+ - [x] Tarefa 1
